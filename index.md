@@ -11,4 +11,4 @@ Introducing the AI/ML DevBox: your private Docker repository tailored for the Ex
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AnkitSurana/epgp_iiit)
 
-<center><img src="images/devbox.jpg"/></center>
+<center><img src="assets/img/devbox.png"/></center>
