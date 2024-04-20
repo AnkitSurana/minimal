@@ -1,4 +1,4 @@
-title: Ankit Kumar Surana
+title: Ankit Surana
 logo: /assets/img/logo.jpeg
 description: 
   <p align="center">
@@ -7,9 +7,11 @@ description:
     <a href="https://github.com/AnkitSurana">GitHub</a>
       
     <br> 
-      <p align="center"> Experienced data professional with a proven track record of over 7.5 years in the tech industry. Started as an SDET and now proficient in data mining, analysis, visualization, AI/ML, and automation using Python. Have experience working in the Banking-Compliance and Regulations domain. A quick learner, a team player, and a mentor to junior team members, adept at collaborating with cross-functional teams to identify business requirements and deliver high-quality solutions. </p>
+      <p align="justify"> Experienced data professional with a proven track record of over 7.5 years in the tech industry. Started as an SDET and now proficient in data mining, analysis, visualization, AI/ML, and automation using Python. Have experience working in the Banking-Compliance and Regulations domain. A quick learner, a team player, and a mentor to junior team members, adept at collaborating with cross-functional teams to identify business requirements and deliver high-quality solutions. </p>
+    <br>
+    <br>
     <br>
   </p>
-  <br></br>
+  
 
 theme: jekyll-theme-minimal
